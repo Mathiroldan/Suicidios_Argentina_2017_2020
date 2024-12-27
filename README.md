@@ -46,12 +46,11 @@ El proyecto intenta contestar diversas preguntas, entre ellas:
 | **Item**              | **Descripción**                           |
 |--------------------------|-------------------------------------------|
 | **Problema y preguntas**              | Definición del proyecto |
-| **Recolección de datos** | Upload datasets in CSV format or connect to databases. Interactive data exploration: distributions, correlations, and outliers. |
-| **Limpieza de datos** | Data cleaning and transformation: handling missing values, duplicates, and scaling. User-customizable transformations. |
-| **Análisis exploratorio**      | Interactive dashboard for key KPIs like fraud percentage, trends, and geographic analysis. Dynamic charts and visualizations. |
-| **Visualización** | Model training for fraud prediction. Evaluation metrics such as precision, recall, and F1-score. User testing of hyperparameters. |
-| **Reporte** | Generate downloadable reports in PDF or Excel format with key metrics and charts. Includes an executive summary of the analysis. |
-| **Documentación**     | Technical details of the project, tools used, and team roles. System usage guide. |
+| **Recolección de datos** | Relevamiento de datos y carga del mismo en formato csv. |
+| **Limpieza de datos** | Eliminación y reordenamiento de columnas; eliminación de datos en blanco; partición de la tabla en varias para la creación del diagrama entidad-relación.|
+| **Carga a Power BI**      | Carga de datos a Power BI; creación de nuevas tablas y medidas en Power Query. |
+| **Visualización** | Creación de Mockup; elaboración del tablero final. |
+| **Reporte** | Presentación de la versión definitiva del proyecto. |
 
 ---
 
