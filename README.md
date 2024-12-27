@@ -26,7 +26,16 @@ Análisis de los suicidios ocurridos en la Argentina entre 2017 y 2020.
 
 #### Descripción
 
+El presente trabajo tiene como objetivo averiguar la situación epidemiológica del suicidio en la Argentina, a partir de los últimos datos recogidos de manera oficial, a fin 
+de encontrar tendencias que respondan a distintos interrogantes sobre dicho asunto.
+
 #### Objetivos
+
+El proyecto intenta contestar diversas preguntas, entre ellas:
+- ¿cuál es la franja etaria más afectada por el suicidio?
+- ¿cuantas victimas hubo en los últimos años?
+- ¿cuál es son las provincias y localidades más afectadas?
+- ¿cuál es el porcentaje de hombres y mujeres afectados por el suicidio?, entre otras preguntas.
 
 ---
 
