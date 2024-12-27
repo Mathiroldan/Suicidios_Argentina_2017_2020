@@ -16,8 +16,8 @@ Análisis de los suicidios ocurridos en la Argentina entre 2017 y 2020.
 
 | Item                  | Descripción                                |
 |-----------------------|--------------------------------------------|
-| **Proyecto**          |                                                                 |
-| **Fecha de realización**   |                                                          |
+| **Proyecto**          | Suicidios en Argentina entre 2017 y 2020                                                                |
+| **Fecha de realización**   |    Abril de 2023                                                      |
 | **Herramientas utilizadas** | Draw.io, Microsoft Excel, Power BI                                       |
 
 ---
