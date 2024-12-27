@@ -2,7 +2,7 @@
 Análisis de los suicidios ocurridos en la Argentina entre 2017 y 2020.
 
 <p align="center">
-  <img width="770" height="420" src="https://media.istockphoto.com/id/583795284/es/foto/argentina-clavada-en-el-mapa-con-bandera.jpg">
+  <img width="770" height="420" src="https://media.istockphoto.com/id/583795284/es/foto/argentina-clavada-en-el-mapa-con-bandera.jpg?s=612x612&w=0&k=20&c=yePKV1Jz8AW6kWSeCQafXnUw7qH4cgV71gvUDpP1kMQ=">
 </p>
 
 ### Tabla de Contenidos
