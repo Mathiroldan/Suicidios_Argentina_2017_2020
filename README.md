@@ -56,5 +56,12 @@ El proyecto intenta contestar diversas preguntas, entre ellas:
 
 ### Contenido del proyecto
 
-[Portada]
+**Portada** ![Whats-App-Image-2024-09-24-at-10-22-38](https://github.com/user-attachments/assets/2ad7dc50-b4b0-42d8-a0f2-5a5b3a93e9ab)
+
+**Tiempo** ![Whats-App-Image-2024-09-24-at-10-23-31](https://github.com/user-attachments/assets/304152e6-34c1-45a1-87ad-e30da7a7a8bd)
+
+**Lugar** ![Whats-App-Image-2024-09-24-at-10-25-13](https://github.com/user-attachments/assets/7b012886-400e-4e95-9d3d-0dbe8a392c79)
+
+**Poblacion** ![Whats-App-Image-2024-09-24-at-10-26-33](https://github.com/user-attachments/assets/5a4bcff5-9458-4f64-aab1-92025a011795)
+
 ---
