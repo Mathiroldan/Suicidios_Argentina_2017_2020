@@ -56,4 +56,5 @@ El proyecto intenta contestar diversas preguntas, entre ellas:
 
 ### Contenido del proyecto
 
+[Portada]("/images/C:/Users/yiman/Downloads/Whats-App-Image-2024-09-24-at-10-22-38.jpg")
 ---
